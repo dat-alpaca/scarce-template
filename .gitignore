@@ -1,0 +1,9 @@
+build/
+deploy/
+.vscode/
+.cache/
+con/
+
+subprojects/*
+!subprojects/*.wrap
+!subprojects/packagefiles

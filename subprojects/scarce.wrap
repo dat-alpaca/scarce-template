@@ -1,0 +1,7 @@
+[wrap-git]
+url = https://github.com/dat-alpaca/scarce.git
+revision = main
+depth = 1
+
+[provide]
+scarce = scarce_dep
